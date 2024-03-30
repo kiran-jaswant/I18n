@@ -1,0 +1,20 @@
+.Counter{
+    text-align: center;
+}
+.Warning{
+    text-align: center;
+    color:red;
+    font-size: 20px;
+}
+.counter-btn{
+    padding:16px;
+    border:3px solid black;
+    font-weight: bold;
+    border-radius: 20px;
+
+}
+.btn-sec{
+    display: flex;
+    justify-content: space-around;
+
+}

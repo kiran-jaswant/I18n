@@ -1,0 +1,25 @@
+{
+    "eng":{
+        "welcomemessage":"Welcome to our website.",
+        "normmessage":"Hope you will have greate experience learning with us.",
+        "wishmessage":"Enjoy your learning. ",
+        "greetmessage":"Have a great day!"
+
+    },
+    "mar":{
+        "welcomemessage":"आमच्या वेबसाइटला स्वागत आहे.",
+        "normmessage":"आशा आहे की तुम्हाला आमच्यासोबत शिकण्याचा उत्तम अनुभव मिळेल.",
+        "wishmessage":"तुमच्या शिकण्याचा आनंद घ्या.",
+        "greetmessage":"तुमचा दिवस चांगला जावो!"
+
+
+    },
+    "hind":{
+        "welcomemessage":"हमारी वेब साईट में स्वागत है |",
+        "normmessage":"आशा है कि आपको हमारे साथ सीखने का बहुत अच्छा अनुभव होगा |",
+        "wishmessage":"अपने सीखने का आनंद लें | ",
+        "greetmessage":"आपका दिन अच्छा रहे !"
+
+        
+    }
+}

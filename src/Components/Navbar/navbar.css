@@ -1,0 +1,20 @@
+.Navbar{
+    background-color: #cc0052;
+    padding:2%;
+    border:2px solid black;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+.menunav{
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    padding:1.2%;
+    border-radius:10px;
+    border:2px solid black;
+
+
+}
