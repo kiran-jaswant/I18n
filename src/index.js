@@ -3,6 +3,7 @@ import Home from "./View/Home/Home.js";
 import About from "./View/About/About.js";
 import Contact from "./View/Contact/Contact.js";
 import Counter from "./View/Counter/Counter.js";
+import Scoreboard from './View/Scoreboard/Scoreboard.js'
 
 
 
@@ -20,6 +21,9 @@ else if(path ==="/contact"){
 }
 else if(path === "/counter"){
   root.render(<Counter />);
+}
+else if(path==="/scoreboard"){
+  root.render(<Scoreboard/>)
 }
 else{
   root.render("Not Found")

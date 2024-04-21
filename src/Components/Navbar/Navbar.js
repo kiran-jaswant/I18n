@@ -9,6 +9,7 @@ function Navbar() {
         <a href="./about" className='menunav'>About</a> &nbsp;&nbsp;
         <a href="./contact" className='menunav'>Contact ☎️</a>
         <a href="./counter" className='menunav'>Counter </a>
+        <a href="./scoreboard" className='menunav'>Scoreboard🏆 </a>
       </div>
     </div>
   )
